@@ -1,0 +1,511 @@
+name,year,selling_price,km_driven,fuel,seller_type,transmission,owner
+Tata Nexon,2019,428777,138337.0,Diesel,Trustmark Dealer,Manual,First Owner
+Mahindra XUV500,2006,171778,6311.0,Diesel,Individual,Automatic,Fourth & Above Owner
+Maruti Alto,2014,174436,157730.0,Diesel,Dealer,Manual,First Owner
+Honda Jazz,2008,118687,42606.0,Diesel,Trustmark Dealer,Manual,First Owner
+Tata Tiago,2008,71557,155969.0,Electric,Individual,Manual,First Owner
+Tata Nexon,2012,247015,20457.0,Petrol,Individual,Automatic,First Owner
+Mahindra Scorpio,2008,146983,197769.0,Petrol,Individual,Automatic,First Owner
+Renault Kwid,2011,172172,24247.0,Diesel,Dealer,Automatic,Second Owner
+Ford EcoSport,2013,171460,39044.0,Petrol,Dealer,Manual,Second Owner
+Renault Duster,2015,217235,130312.0,Petrol,Trustmark Dealer,Manual,Second Owner
+Skoda Rapid,2014,350667,53256.0,Petrol,Individual,Automatic,First Owner
+Honda Amaze,2015,227575,159338.0,Diesel,Trustmark Dealer,Manual,Second Owner
+Skoda Rapid,2019,617720,123409.0,Petrol,Trustmark Dealer,Manual,First Owner
+Maruti Alto,2017,291120,188116.0,Diesel,Trustmark Dealer,Automatic,First Owner
+Toyota Innova,2020,1041506,110225.0,Diesel,Individual,Manual,Second Owner
+Toyota Corolla,2018,962483,45262.0,Diesel,Dealer,Automatic,Third Owner
+Maruti Swift,2015,174317,141546.0,Diesel,Dealer,Automatic,First Owner
+Ford Figo,2007,92674,94557.0,Petrol,Trustmark Dealer,Manual,First Owner
+Renault Duster,2008,75079,66318.0,petrol,Individual,Automatic,First Owner
+Maruti Dzire,2005,50000,91084.0,Electric,Trustmark Dealer,Manual,First Owner
+Maruti Dzire,2018,254634,195806.0,Petrol,Individual,Manual,Second Owner
+Mahindra XUV500,2008,170365,81623.0,Electric,Trustmark Dealer,Manual,Second Owner
+Volkswagen Vento,2015,233897,113547.0,Petrol,Trustmark Dealer,Manual,First Owner
+Tata Nexon,2005,63497,133874.0,petrol,Dealer,Manual,First Owner
+Volkswagen Vento,2011,195361,47843.0,Diesel,Trustmark Dealer,Manual,First Owner
+Maruti Baleno,2005,81518,30855.0,Petrol,Dealer,Automatic,Second Owner
+Volkswagen Polo,2007,146088,127071.0,Diesel,Individual,Automatic,Third Owner
+Honda Amaze,2013,251804,120121.0,Diesel,Individual,Manual,First Owner
+Honda City,2013,255812,92412.0,Petrol,Individual,Manual,First Owner
+Honda City,2020,470062,177597.0,Diesel,Trustmark Dealer,Manual,First Owner
+Mahindra Scorpio,2017,604699,50377.0,Diesel,Trustmark Dealer,Automatic,First Owner
+Maruti Swift,2016,275712,110616.0,Diesel,Trustmark Dealer,Manual,First Owner
+Ford EcoSport,2007,109327,97752.0,Diesel,Dealer,Automatic,First Owner
+Toyota Fortuner,2017,807742,27641.0,petrol,Trustmark Dealer,Automatic,First Owner
+Mahindra Scorpio,2007,104387,12093.0,Diesel,Trustmark Dealer,Manual,First Owner
+Skoda Rapid,2012,236181,55748.0,Diesel,Trustmark Dealer,Manual,First Owner
+Skoda Rapid,2006,195027,111627.0,CNG,Individual,Automatic,Second Owner
+Honda Jazz,2019,472122,125862.0,petrol,Trustmark Dealer,Manual,First Owner
+Volkswagen Vento,2019,436033,188733.0,Electric,Individual,Automatic,First Owner
+Renault Duster,2016,222143,198484.0,Petrol,Individual,Manual,First Owner
+Honda Jazz,2012,184871,84613.0,Diesel,Individual,Automatic,First Owner
+Skoda Rapid,2014,277052,133222.0,Petrol,Trustmark Dealer,Automatic,Second Owner
+Ford Figo,2014,188695,6237.0,Electric,Individual,Manual,Second Owner
+Tata Harrier,2009,141295,68215.0,Diesel,Individual,Manual,First Owner
+Mahindra XUV500,2017,445172,52293.0,Petrol,Dealer,Manual,Third Owner
+Skoda Octavia,2020,828640,60101.0,CNG,Individual,Manual,Second Owner
+Skoda Octavia,2010,238205,197489.0,Diesel,Trustmark Dealer,Manual,Second Owner
+Ford Figo,2008,114263,95704.0,Diesel,Individual,Automatic,Third Owner
+Toyota Corolla,2007,216889,94610.0,Diesel,Trustmark Dealer,Manual,Third Owner
+Skoda Rapid,2016,401571,144233.0,Petrol,Individual,Manual,First Owner
+Hyundai Verna,2011,124792,147377.0,Petrol,Individual,Manual,First Owner
+Toyota Corolla,2009,330241,61692.0,Petrol,Dealer,Automatic,Fourth & Above Owner
+Toyota Corolla,2009,362903,84042.0,diesel,Dealer,Automatic,First Owner
+Renault Duster,2018,317159,72180.0,Diesel,Trustmark Dealer,Manual,Second Owner
+Honda City,2018,374819,182589.0,Electric,Dealer,Manual,First Owner
+Toyota Fortuner,2014,454012,103795.0,Diesel,Trustmark Dealer,Manual,First Owner
+Ford Figo,2011,145051,153617.0,diesel,Dealer,Manual,Fourth & Above Owner
+Hyundai Verna,2016,365181,176333.0,Diesel,Dealer,Automatic,First Owner
+Renault Kwid,2013,192655,89092.0,CNG,Dealer,Manual,First Owner
+Tata Nexon,2017,275481,166650.0,diesel,Trustmark Dealer,Manual,Second Owner
+Mahindra Bolero,2015,412375,45482.0,Petrol,Individual,Manual,First Owner
+Toyota Innova,2019,781600,81219.0,Diesel,Dealer,Manual,Fourth & Above Owner
+Maruti Swift,2012,112519,37395.0,Diesel,Individual,Manual,Fourth & Above Owner
+Mahindra XUV500,2015,389972,14843.0,Electric,Trustmark Dealer,Manual,First Owner
+Volkswagen Polo,2018,502532,107357.0,Petrol,Individual,Automatic,First Owner
+Skoda Octavia,2020,673301,161775.0,CNG,Dealer,Manual,First Owner
+Toyota Corolla,2012,301463,128016.0,petrol,Dealer,Manual,First Owner
+Volkswagen Polo,2009,144930,28532.0,CNG,Dealer,Manual,Third Owner
+Mahindra Scorpio,2007,109624,197617.0,Diesel,Individual,Manual,Third Owner
+Maruti Baleno,2020,373003,136230.0,Electric,Individual,Manual,First Owner
+Maruti Swift,2005,74291,1404.0,Diesel,Dealer,Manual,First Owner
+Ford EcoSport,2007,118589,5809.0,Diesel,Dealer,Automatic,Second Owner
+Maruti Swift,2018,298306,149172.0,Petrol,Dealer,Manual,First Owner
+Hyundai Santro,2019,450257,62877.0,Petrol,Individual,Manual,Second Owner
+Hyundai Santro,2005,97696,38626.0,Diesel,Individual,Manual,First Owner
+Hyundai Verna,2007,140471,7949.0,Electric,Individual,Manual,Second Owner
+Hyundai Creta,2019,522626,54413.0,Diesel,Dealer,Automatic,First Owner
+Skoda Rapid,2005,138029,20963.0,Electric,Dealer,Manual,First Owner
+Ford EcoSport,2010,61331,144087.0,Diesel,Trustmark Dealer,Manual,First Owner
+Mahindra XUV500,2007,210925,29732.0,CNG,Individual,Manual,First Owner
+Honda City,2009,59195,80252.0,Petrol,Individual,Manual,First Owner
+Hyundai i20,2018,365981,142560.0,Petrol,Individual,Manual,First Owner
+Mahindra Bolero,2012,275982,136504.0,CNG,Dealer,Automatic,First Owner
+Toyota Fortuner,2019,947131,29699.0,petrol,Individual,Manual,First Owner
+Renault Kwid,2017,270504,137198.0,Petrol,Trustmark Dealer,Manual,Second Owner
+Hyundai Creta,2010,147593,170590.0,Diesel,Dealer,Manual,First Owner
+Skoda Rapid,2013,292098,48915.0,CNG,Individual,Manual,First Owner
+Skoda Rapid,2013,235673,27069.0,Diesel,Trustmark Dealer,Manual,First Owner
+Renault Kwid,2005,50000,195053.0,Diesel,Dealer,Manual,Third Owner
+Mahindra XUV500,2013,310774,2605.0,Petrol,Individual,Manual,First Owner
+Toyota Corolla,2015,410576,125040.0,Petrol,Trustmark Dealer,Automatic,First Owner
+Toyota Fortuner,2010,334582,132189.0,petrol,Trustmark Dealer,Automatic,First Owner
+Renault Kwid,2007,66037,80239.0,CNG,Trustmark Dealer,Manual,First Owner
+Skoda Octavia,2008,178554,128534.0,Diesel,Dealer,Manual,Second Owner
+Mahindra XUV500,2018,484395,48362.0,Petrol,Trustmark Dealer,Manual,First Owner
+Tata Tiago,2016,240953,133414.0,Petrol,Dealer,Manual,Second Owner
+Maruti Swift,2015,242587,43078.0,Diesel,Trustmark Dealer,Manual,Third Owner
+Volkswagen Vento,2016,345049,138023.0,petrol,Individual,Automatic,Second Owner
+Volkswagen Polo,2018,411548,151354.0,diesel,Dealer,Automatic,Second Owner
+Skoda Rapid,2006,143126,40711.0,CNG,Individual,Manual,First Owner
+Mahindra XUV500,2011,165201,166088.0,Diesel,Dealer,Manual,First Owner
+Renault Duster,2011,148039,84122.0,Petrol,Trustmark Dealer,Automatic,First Owner
+Toyota Fortuner,2019,818414,132994.0,Diesel,Trustmark Dealer,Manual,Second Owner
+Ford Endeavour,2011,124709,33265.0,Petrol,Individual,Manual,First Owner
+Skoda Rapid,2010,186146,65435.0,CNG,Dealer,Manual,First Owner
+Toyota Innova,2006,176834,125714.0,Petrol,Individual,Manual,First Owner
+Toyota Fortuner,2018,754811,132886.0,Electric,Trustmark Dealer,Manual,First Owner
+Renault Kwid,2006,69206,171987.0,Diesel,Trustmark Dealer,Manual,First Owner
+Toyota Innova,2012,400404,197382.0,Petrol,Dealer,Manual,Second Owner
+Renault Duster,2010,89134,168316.0,Electric,Dealer,Manual,First Owner
+Toyota Corolla,2011,283189,171354.0,Electric,Trustmark Dealer,Automatic,First Owner
+Volkswagen Vento,2008,112895,157222.0,diesel,Trustmark Dealer,Manual,First Owner
+Skoda Rapid,2010,233556,37368.0,Petrol,Individual,Manual,First Owner
+Toyota Corolla,2009,165529,5757.0,Electric,Trustmark Dealer,Manual,First Owner
+Hyundai i20,2005,50000,53853.0,Petrol,Dealer,Automatic,Third Owner
+Tata Nexon,2020,407851,165791.0,Petrol,Trustmark Dealer,Manual,Third Owner
+Maruti Swift,2017,297414,165608.0,Diesel,Individual,Manual,Second Owner
+Maruti Baleno,2018,272152,53487.0,Diesel,Dealer,Manual,Third Owner
+Tata Harrier,2020,446747,184675.0,Petrol,Individual,Automatic,Second Owner
+Volkswagen Polo,2007,143986,75055.0,Petrol,Dealer,Manual,First Owner
+Ford Endeavour,2007,108816,74506.0,Diesel,Individual,Manual,First Owner
+Toyota Innova,2010,318650,7150.0,Petrol,Individual,Manual,Second Owner
+Maruti Dzire,2009,95886,163491.0,Petrol,Dealer,Manual,Second Owner
+Skoda Rapid,2006,144024,165644.0,petrol,Dealer,Manual,First Owner
+Volkswagen Vento,2009,146283,149843.0,Petrol,Individual,Automatic,First Owner
+Tata Nexon,2006,103043,100608.0,Petrol,Individual,Manual,First Owner
+Mahindra Scorpio,2015,345118,127678.0,Diesel,Dealer,Manual,Second Owner
+Skoda Octavia,2013,342959,122829.0,Petrol,Dealer,Manual,Second Owner
+Tata Nexon,2014,263738,30402.0,Petrol,Trustmark Dealer,Manual,First Owner
+Tata Tiago,2017,302161,168469.0,CNG,Individual,Manual,First Owner
+Mahindra Bolero,2005,60924,54276.0,Petrol,Individual,Manual,First Owner
+Maruti Dzire,2011,108253,155222.0,Diesel,Trustmark Dealer,Automatic,Fourth & Above Owner
+Mahindra XUV500,2012,217689,199370.0,Petrol,Trustmark Dealer,Manual,Second Owner
+Hyundai i20,2013,155804,132132.0,Petrol,Dealer,Manual,Second Owner
+Skoda Rapid,2011,212520,21581.0,Petrol,Trustmark Dealer,Manual,First Owner
+Maruti Swift,2005,50000,152563.0,Electric,Trustmark Dealer,Manual,First Owner
+Renault Duster,2012,211769,68957.0,Diesel,Dealer,Automatic,Second Owner
+Volkswagen Polo,2014,291209,107896.0,Petrol,Trustmark Dealer,Manual,First Owner
+Ford EcoSport,2014,223635,143194.0,Petrol,Trustmark Dealer,Manual,Third Owner
+Tata Harrier,2006,76222,75910.0,Diesel,Individual,Manual,First Owner
+Hyundai Verna,2009,155766,173070.0,Diesel,Trustmark Dealer,Manual,First Owner
+Volkswagen Polo,2006,102912,111017.0,Diesel,Individual,Manual,First Owner
+Skoda Octavia,2018,501456,180615.0,Petrol,Individual,Manual,Third Owner
+Renault Kwid,2019,320853,135502.0,petrol,Trustmark Dealer,Manual,First Owner
+Maruti Baleno,2005,50000,166873.0,Petrol,Individual,Manual,First Owner
+Renault Kwid,2016,221782,169645.0,Electric,Dealer,Automatic,Fourth & Above Owner
+Renault Duster,2018,340589,129583.0,Diesel,Trustmark Dealer,Manual,Third Owner
+Skoda Rapid,2006,180407,187626.0,petrol,Individual,Manual,Second Owner
+Ford Figo,2010,114586,194555.0,Electric,Trustmark Dealer,Automatic,Fourth & Above Owner
+Hyundai Creta,2018,405661,62413.0,Electric,Trustmark Dealer,Automatic,Second Owner
+Volkswagen Polo,2008,96580,155946.0,Diesel,Dealer,Manual,First Owner
+Hyundai Santro,2014,197483,190834.0,CNG,Dealer,Manual,First Owner
+Renault Kwid,2019,387968,42873.0,Petrol,Individual,Manual,First Owner
+Ford Figo,2005,52355,3396.0,Petrol,Individual,Automatic,Third Owner
+Honda Amaze,2012,227477,87231.0,Diesel,Individual,Manual,Second Owner
+Volkswagen Polo,2015,362332,70274.0,Petrol,Trustmark Dealer,Automatic,Second Owner
+Tata Nexon,2015,228096,48638.0,Electric,Trustmark Dealer,Manual,First Owner
+Tata Harrier,2006,101916,92659.0,CNG,Dealer,Automatic,First Owner
+Maruti Swift,2005,62297,133079.0,Petrol,Dealer,Manual,First Owner
+Hyundai Verna,2016,374004,145579.0,Diesel,Dealer,Automatic,First Owner
+Toyota Corolla,2008,284673,64888.0,Petrol,Individual,Manual,First Owner
+Hyundai Creta,2018,383016,88266.0,Electric,Trustmark Dealer,Automatic,First Owner
+Tata Nexon,2015,201472,28082.0,CNG,Trustmark Dealer,Manual,Second Owner
+Toyota Innova,2007,169860,76932.0,Diesel,Trustmark Dealer,Manual,First Owner
+Hyundai Verna,2018,356227,176485.0,Petrol,Trustmark Dealer,Manual,First Owner
+Ford Endeavour,2008,100965,6626.0,petrol,Trustmark Dealer,Manual,First Owner
+Mahindra Bolero,2006,104450,83711.0,Petrol,Dealer,Manual,First Owner
+Renault Kwid,2018,340056,83970.0,Petrol,Trustmark Dealer,Manual,Second Owner
+Toyota Fortuner,2007,297552,53098.0,diesel,Individual,Manual,First Owner
+Toyota Innova,2010,382362,6109.0,Petrol,Individual,Manual,First Owner
+Hyundai Santro,2012,233927,158661.0,Petrol,Dealer,Manual,First Owner
+Volkswagen Polo,2016,343260,70298.0,diesel,Individual,Manual,First Owner
+Maruti Alto,2013,164904,97347.0,Diesel,Individual,Manual,Second Owner
+Maruti Baleno,2005,57984,113755.0,Petrol,Dealer,Manual,First Owner
+Tata Tiago,2010,161883,128118.0,Diesel,Individual,Manual,First Owner
+Mahindra XUV500,2010,229290,65881.0,Diesel,Dealer,Manual,Third Owner
+Renault Kwid,2016,239885,101734.0,CNG,Trustmark Dealer,Manual,First Owner
+Skoda Octavia,2014,414326,37877.0,Diesel,Individual,Manual,First Owner
+Mahindra Bolero,2016,364644,163962.0,Petrol,Individual,Automatic,Fourth & Above Owner
+Tata Nexon,2011,122327,106361.0,Petrol,Individual,Manual,Second Owner
+Ford Figo,2015,250573,177572.0,Diesel,Trustmark Dealer,Manual,First Owner
+Skoda Rapid,2012,242793,171515.0,Diesel,Individual,Manual,First Owner
+Hyundai i20,2007,52802,32585.0,Diesel,Dealer,Manual,First Owner
+Honda Amaze,2010,120376,127503.0,petrol,Individual,Manual,Second Owner
+Maruti Dzire,2014,210659,143633.0,Diesel,Trustmark Dealer,Automatic,First Owner
+Mahindra XUV500,2019,666901,46893.0,Diesel,Individual,Manual,Second Owner
+Volkswagen Polo,2016,261083,145832.0,Petrol,Trustmark Dealer,Manual,Second Owner
+Honda Amaze,2018,424883,20816.0,Petrol,Individual,Manual,First Owner
+Toyota Fortuner,2016,621077,36946.0,Diesel,Dealer,Manual,Second Owner
+Maruti Alto,2016,328259,132691.0,Diesel,Individual,Automatic,First Owner
+Toyota Corolla,2018,649906,159492.0,Petrol,Individual,Manual,Second Owner
+Ford Figo,2005,50000,167129.0,Diesel,Dealer,Manual,Fourth & Above Owner
+Hyundai i20,2006,61382,7570.0,Electric,Trustmark Dealer,Manual,First Owner
+Toyota Corolla,2014,475279,124008.0,Diesel,Dealer,Manual,Second Owner
+Mahindra XUV500,2019,535399,147649.0,Petrol,Trustmark Dealer,Manual,First Owner
+Maruti Alto,2015,212599,102376.0,Electric,Dealer,Manual,First Owner
+Ford Figo,2013,166531,149159.0,Petrol,Individual,Manual,First Owner
+Volkswagen Polo,2017,382999,115044.0,Petrol,Individual,Manual,Second Owner
+Toyota Corolla,2007,106036,157498.0,CNG,Dealer,Automatic,Third Owner
+Tata Nexon,2009,81853,101494.0,Petrol,Trustmark Dealer,Manual,Second Owner
+Volkswagen Polo,2005,104724,64449.0,Diesel,Individual,Manual,First Owner
+Hyundai Creta,2013,208650,32348.0,petrol,Individual,Automatic,Second Owner
+Volkswagen Vento,2009,160498,74770.0,petrol,Trustmark Dealer,Manual,Second Owner
+Ford Endeavour,2015,264309,57088.0,Petrol,Trustmark Dealer,Manual,Second Owner
+Honda Jazz,2008,89221,47413.0,Electric,Individual,Manual,First Owner
+Honda Amaze,2008,77434,155243.0,Diesel,Dealer,Manual,Second Owner
+Tata Harrier,2016,261900,19743.0,Petrol,Trustmark Dealer,Manual,Second Owner
+Mahindra XUV500,2016,378511,89204.0,Petrol,Trustmark Dealer,Manual,Second Owner
+Mahindra XUV500,2010,246704,82929.0,Diesel,Trustmark Dealer,Automatic,First Owner
+Renault Kwid,2005,60133,106111.0,Petrol,Individual,Automatic,Second Owner
+Tata Tiago,2013,189799,128556.0,Petrol,Dealer,Manual,First Owner
+Tata Nexon,2005,70718,165827.0,Petrol,Trustmark Dealer,Manual,First Owner
+Skoda Rapid,2018,595765,18727.0,Diesel,Dealer,Manual,First Owner
+Mahindra XUV500,2011,254350,193018.0,Diesel,Individual,Manual,Second Owner
+Mahindra Scorpio,2020,557701,111944.0,Petrol,Dealer,Manual,First Owner
+Mahindra XUV500,2011,170056,11756.0,Petrol,Individual,Manual,First Owner
+Ford EcoSport,2012,193450,46113.0,Diesel,Dealer,Manual,First Owner
+Hyundai Verna,2018,388350,193035.0,Petrol,Individual,Manual,Fourth & Above Owner
+Volkswagen Polo,2020,639966,69619.0,Diesel,Trustmark Dealer,Manual,First Owner
+Tata Harrier,2012,173503,99452.0,Petrol,Dealer,Manual,First Owner
+Mahindra Scorpio,2012,231553,10715.0,diesel,Individual,Manual,Second Owner
+Ford EcoSport,2015,208834,39067.0,Petrol,Trustmark Dealer,Manual,First Owner
+Skoda Octavia,2006,140587,11382.0,Diesel,Trustmark Dealer,Automatic,Fourth & Above Owner
+Maruti Baleno,2010,126280,64133.0,CNG,Individual,Manual,Second Owner
+Honda Jazz,2008,145560,7721.0,CNG,Trustmark Dealer,Manual,First Owner
+Hyundai i20,2017,349690,163624.0,CNG,Individual,Automatic,Second Owner
+Mahindra Scorpio,2017,521050,51200.0,Petrol,Individual,Automatic,Second Owner
+Toyota Innova,2019,712210,165685.0,Electric,Dealer,Manual,Third Owner
+Mahindra XUV500,2015,351631,40922.0,Diesel,Trustmark Dealer,Manual,First Owner
+Hyundai i20,2019,517232,45936.0,Diesel,Trustmark Dealer,Automatic,First Owner
+Volkswagen Vento,2018,404369,98539.0,Petrol,Dealer,Manual,Second Owner
+Toyota Innova,2008,189847,147494.0,Diesel,Individual,Automatic,Second Owner
+Honda Jazz,2015,317863,77373.0,Diesel,Dealer,Automatic,Fourth & Above Owner
+Ford EcoSport,2010,122972,137614.0,Petrol,Individual,Automatic,Second Owner
+Ford EcoSport,2006,50000,185492.0,Diesel,Dealer,Manual,First Owner
+Ford Endeavour,2009,100820,22223.0,Diesel,Individual,Manual,Second Owner
+Toyota Innova,2010,347731,54352.0,petrol,Dealer,Automatic,First Owner
+Hyundai Santro,2020,594183,29671.0,Petrol,Individual,Automatic,Third Owner
+Ford Endeavour,2011,179224,181302.0,Diesel,Dealer,Automatic,Third Owner
+Ford Figo,2011,146866,64530.0,Diesel,Dealer,Manual,Second Owner
+Honda Jazz,2012,215469,142214.0,Petrol,Individual,Manual,First Owner
+Tata Harrier,2016,241480,105797.0,petrol,Dealer,Manual,Second Owner
+Renault Kwid,2014,152213,149702.0,Petrol,Dealer,Manual,Second Owner
+Volkswagen Polo,2013,220865,47857.0,Diesel,Individual,Manual,Second Owner
+Renault Kwid,2010,125611,189938.0,Diesel,Individual,Automatic,First Owner
+Volkswagen Polo,2012,178967,93949.0,Diesel,Dealer,Manual,First Owner
+Toyota Innova,2016,715657,78794.0,Petrol,Dealer,Automatic,Second Owner
+Volkswagen Polo,2006,86695,80751.0,Diesel,Individual,Manual,Second Owner
+Tata Harrier,2016,245868,190784.0,Petrol,Individual,Manual,Third Owner
+Hyundai Verna,2019,479896,109821.0,Diesel,Dealer,Automatic,First Owner
+Maruti Alto,2007,113185,30725.0,Petrol,Dealer,Manual,Third Owner
+Renault Kwid,2014,184031,181738.0,Petrol,Dealer,Manual,Fourth & Above Owner
+Renault Duster,2020,391360,135153.0,CNG,Dealer,Manual,Second Owner
+Hyundai i20,2020,529150,109777.0,diesel,Individual,Manual,Second Owner
+Mahindra XUV500,2018,516341,147451.0,Petrol,Dealer,Automatic,First Owner
+Renault Duster,2009,75014,114175.0,Petrol,Individual,Manual,First Owner
+Skoda Rapid,2010,265319,81073.0,Diesel,Dealer,Manual,Second Owner
+Toyota Innova,2011,250306,148159.0,CNG,Trustmark Dealer,Manual,First Owner
+Skoda Rapid,2008,211324,17029.0,Diesel,Individual,Manual,Second Owner
+Maruti Dzire,2018,274520,153889.0,Petrol,Individual,Manual,Second Owner
+Toyota Fortuner,2020,1003221,77256.0,petrol,Dealer,Manual,First Owner
+Volkswagen Vento,2010,103102,162326.0,Diesel,Trustmark Dealer,Manual,Second Owner
+Tata Nexon,2014,188360,140401.0,Diesel,Dealer,Manual,First Owner
+Maruti Dzire,2017,292772,131349.0,diesel,Trustmark Dealer,Manual,First Owner
+Ford Figo,2020,468261,157351.0,Petrol,Individual,Automatic,First Owner
+Maruti Alto,2013,222589,8531.0,Petrol,Individual,Manual,First Owner
+Toyota Innova,2008,149193,93573.0,Petrol,Individual,Manual,First Owner
+Renault Kwid,2020,343540,165044.0,petrol,Dealer,Manual,First Owner
+Volkswagen Polo,2008,50000,182098.0,Petrol,Individual,Manual,First Owner
+Tata Tiago,2019,421393,67707.0,Petrol,Trustmark Dealer,Manual,First Owner
+Tata Nexon,2014,240854,152716.0,CNG,Individual,Automatic,Fourth & Above Owner
+Skoda Rapid,2012,219826,30055.0,Petrol,Dealer,Manual,Fourth & Above Owner
+Volkswagen Polo,2006,107049,130350.0,Diesel,Dealer,Manual,Second Owner
+Hyundai Santro,2014,271219,87544.0,Diesel,Dealer,Automatic,Second Owner
+Mahindra Scorpio,2005,50000,112672.0,Diesel,Individual,Manual,Second Owner
+Tata Tiago,2016,248037,49777.0,Petrol,Trustmark Dealer,Manual,Fourth & Above Owner
+Honda Jazz,2005,90238,64870.0,Petrol,Individual,Manual,Second Owner
+Toyota Corolla,2015,490261,30118.0,Electric,Individual,Manual,First Owner
+Renault Kwid,2007,50000,22253.0,Electric,Trustmark Dealer,Manual,First Owner
+Honda City,2007,66490,76939.0,Petrol,Dealer,Manual,First Owner
+Renault Duster,2013,161948,139043.0,petrol,Individual,Automatic,Second Owner
+Honda City,2007,130041,110472.0,CNG,Individual,Manual,First Owner
+Tata Nexon,2020,478365,12205.0,Diesel,Individual,Manual,Fourth & Above Owner
+Maruti Dzire,2017,311171,57481.0,Electric,Dealer,Manual,First Owner
+Mahindra Scorpio,2019,622542,10752.0,Diesel,Dealer,Manual,First Owner
+Honda City,2016,301266,132717.0,CNG,Individual,Automatic,Second Owner
+Volkswagen Polo,2006,100457,47305.0,CNG,Dealer,Manual,Second Owner
+Ford EcoSport,2018,352481,177168.0,Diesel,Individual,Manual,Second Owner
+Hyundai Creta,2015,264168,138488.0,Diesel,Individual,Manual,Second Owner
+Honda City,2008,110279,142559.0,Diesel,Trustmark Dealer,Manual,First Owner
+Tata Tiago,2013,221176,173886.0,Diesel,Trustmark Dealer,Automatic,First Owner
+Mahindra Bolero,2019,618336,110869.0,Petrol,Dealer,Automatic,Second Owner
+Toyota Innova,2011,263810,142521.0,CNG,Trustmark Dealer,Manual,Second Owner
+Mahindra Scorpio,2008,104295,13109.0,petrol,Trustmark Dealer,Manual,First Owner
+Maruti Swift,2012,193409,54909.0,Diesel,Trustmark Dealer,Automatic,Third Owner
+Skoda Rapid,2013,293440,180272.0,CNG,Individual,Automatic,First Owner
+Tata Nexon,2016,287883,35228.0,Diesel,Individual,Manual,First Owner
+Maruti Alto,2008,72562,,,Trustmark Dealer,Manual,First Owner
+Volkswagen Vento,2015,330147,107108.0,Electric,Dealer,Automatic,First Owner
+Maruti Alto,2018,285217,191001.0,Diesel,Individual,Manual,First Owner
+Ford Figo,2020,455624,,,Dealer,Manual,First Owner
+Maruti Baleno,2012,169038,33174.0,Electric,Trustmark Dealer,Manual,First Owner
+Mahindra Scorpio,2019,585961,146639.0,Petrol,Dealer,Manual,Third Owner
+Honda Jazz,2011,170432,9770.0,Petrol,Dealer,Manual,Second Owner
+Hyundai Santro,2006,126292,41197.0,Diesel,Trustmark Dealer,Automatic,Third Owner
+Honda Amaze,2005,88360,74869.0,Diesel,Trustmark Dealer,Manual,Second Owner
+Toyota Innova,2017,788107,59557.0,Diesel,Dealer,Automatic,Second Owner
+Tata Nexon,2009,137613,66333.0,Diesel,Trustmark Dealer,Manual,Third Owner
+Volkswagen Vento,2009,152000,36634.0,Petrol,Dealer,Automatic,Third Owner
+Honda Jazz,2017,374371,45363.0,Electric,Trustmark Dealer,Manual,Third Owner
+Ford Figo,2016,266547,187470.0,Diesel,Individual,Manual,Fourth & Above Owner
+Tata Tiago,2017,282396,178809.0,CNG,Individual,Manual,First Owner
+Maruti Dzire,2008,113472,103112.0,petrol,Dealer,Manual,First Owner
+Hyundai Verna,2017,324859,75637.0,Diesel,Trustmark Dealer,Manual,Second Owner
+Mahindra XUV500,2013,321424,61058.0,Petrol,Individual,Manual,Second Owner
+Renault Kwid,2005,59504,166696.0,Diesel,Trustmark Dealer,Manual,First Owner
+Skoda Rapid,2009,205285,51583.0,CNG,Dealer,Manual,Second Owner
+Hyundai Santro,2007,106224,193121.0,Petrol,Individual,Manual,First Owner
+Hyundai Santro,2007,89716,69670.0,Diesel,Dealer,Manual,First Owner
+Maruti Alto,2011,134134,69803.0,Diesel,Trustmark Dealer,Manual,First Owner
+Maruti Swift,2019,417875,3011.0,Petrol,Individual,Manual,First Owner
+Maruti Swift,2010,98314,,,Individual,Manual,First Owner
+Maruti Swift,2006,64897,121906.0,Diesel,Trustmark Dealer,Manual,First Owner
+Skoda Rapid,2006,100696,185233.0,Petrol,Dealer,Manual,Third Owner
+Ford EcoSport,2016,245247,138416.0,Petrol,Individual,Automatic,Fourth & Above Owner
+Mahindra XUV500,2009,105799,87836.0,Diesel,Dealer,Manual,Second Owner
+Honda Jazz,2014,194468,131544.0,CNG,Individual,Manual,First Owner
+Tata Harrier,2005,92318,38772.0,Diesel,Trustmark Dealer,Manual,Second Owner
+Toyota Fortuner,2017,782646,178912.0,Electric,Individual,Automatic,Second Owner
+Renault Kwid,2009,86682,171047.0,Diesel,Trustmark Dealer,Manual,First Owner
+Hyundai Verna,2010,177504,45789.0,Diesel,Dealer,Automatic,Second Owner
+Toyota Innova,2018,801275,126074.0,Petrol,Trustmark Dealer,Automatic,First Owner
+Toyota Corolla,2019,905409,160136.0,Petrol,Trustmark Dealer,Manual,First Owner
+Volkswagen Polo,2006,64697,153155.0,Diesel,Trustmark Dealer,Automatic,Second Owner
+Toyota Fortuner,2017,799730,9016.0,Diesel,Dealer,Automatic,Second Owner
+Mahindra Bolero,2015,356551,91102.0,Petrol,Dealer,Automatic,First Owner
+Mahindra XUV500,2010,218947,159015.0,Diesel,Individual,Manual,First Owner
+Renault Duster,2012,162720,78842.0,Diesel,Trustmark Dealer,Automatic,First Owner
+Skoda Rapid,2012,245998,164864.0,Petrol,Dealer,Manual,Second Owner
+Honda Amaze,2019,483158,49511.0,Petrol,Individual,Manual,Second Owner
+Mahindra Bolero,2007,139928,11207.0,Diesel,Dealer,Manual,First Owner
+Hyundai Santro,2005,101464,112041.0,Diesel,Individual,Automatic,Second Owner
+Renault Duster,2019,367614,124853.0,Petrol,Trustmark Dealer,Manual,First Owner
+Maruti Swift,2018,281876,193274.0,Electric,Dealer,Manual,Second Owner
+Mahindra Bolero,2005,122010,90571.0,Diesel,Individual,Automatic,Second Owner
+Hyundai Santro,2018,397849,122534.0,CNG,Individual,Automatic,First Owner
+Tata Tiago,2016,232610,177481.0,Diesel,Individual,Manual,Second Owner
+Volkswagen Polo,2005,50000,27917.0,Diesel,Individual,Manual,Third Owner
+Renault Kwid,2012,142537,56103.0,Petrol,Dealer,Manual,First Owner
+Honda City,2015,242014,114550.0,CNG,Individual,Manual,Third Owner
+Honda City,2010,201059,33441.0,petrol,Dealer,Automatic,First Owner
+Volkswagen Vento,2011,179426,99538.0,Petrol,Dealer,Manual,Second Owner
+Maruti Alto,2016,299746,76357.0,Petrol,Dealer,Manual,First Owner
+Ford EcoSport,2005,64967,67914.0,petrol,Dealer,Automatic,First Owner
+Hyundai Santro,2018,476577,,,Trustmark Dealer,Manual,First Owner
+Volkswagen Polo,2010,152290,159819.0,Diesel,Dealer,Automatic,Second Owner
+Hyundai i20,2012,181979,63491.0,Electric,Trustmark Dealer,Manual,Fourth & Above Owner
+Mahindra Scorpio,2005,87009,27672.0,CNG,Trustmark Dealer,Manual,First Owner
+Skoda Rapid,2016,487569,21132.0,Petrol,Dealer,Manual,Third Owner
+Skoda Rapid,2013,357706,55131.0,Diesel,Individual,Manual,First Owner
+Volkswagen Vento,2014,278716,20611.0,Diesel,Trustmark Dealer,Manual,First Owner
+Mahindra XUV500,2014,317308,162188.0,diesel,Individual,Automatic,First Owner
+Ford Figo,2005,115091,152165.0,Diesel,Dealer,Manual,First Owner
+Tata Harrier,2007,124239,28606.0,Petrol,Dealer,Automatic,Second Owner
+Renault Duster,2010,110205,107984.0,Petrol,Dealer,Automatic,Third Owner
+Tata Tiago,2008,167219,158495.0,Electric,Dealer,Automatic,Fourth & Above Owner
+Hyundai Verna,2019,490363,170530.0,Diesel,Dealer,Automatic,Second Owner
+Volkswagen Vento,2015,286038,187823.0,Diesel,Dealer,Manual,Second Owner
+Maruti Swift,2019,407322,19990.0,Electric,Dealer,Manual,First Owner
+Hyundai i20,2008,133961,159117.0,Diesel,Individual,Manual,First Owner
+Skoda Rapid,2018,581059,40121.0,Petrol,Individual,Manual,First Owner
+Honda Amaze,2010,100995,140883.0,Diesel,Trustmark Dealer,Manual,Second Owner
+Hyundai Verna,2019,472044,26851.0,Petrol,Trustmark Dealer,Automatic,Fourth & Above Owner
+Volkswagen Vento,2007,114036,162945.0,Petrol,Individual,Manual,First Owner
+Honda City,2015,251505,156892.0,petrol,Trustmark Dealer,Manual,Fourth & Above Owner
+Skoda Octavia,2018,540476,188818.0,Diesel,Dealer,Manual,Second Owner
+Toyota Corolla,2010,340830,23601.0,CNG,Dealer,Manual,Second Owner
+Ford EcoSport,2016,185753,159485.0,Petrol,Trustmark Dealer,Manual,First Owner
+Volkswagen Polo,2007,111784,41695.0,CNG,Dealer,Manual,Fourth & Above Owner
+Volkswagen Polo,2011,195202,109125.0,petrol,Dealer,Manual,Third Owner
+Maruti Dzire,2015,161206,107611.0,Petrol,Dealer,Manual,First Owner
+Maruti Baleno,2005,102572,162033.0,Petrol,Trustmark Dealer,Automatic,Second Owner
+Volkswagen Polo,2009,124999,196575.0,Petrol,Individual,Manual,First Owner
+Renault Duster,2009,136010,67668.0,Diesel,Trustmark Dealer,Automatic,First Owner
+Tata Harrier,2014,168764,75601.0,CNG,Trustmark Dealer,Manual,Third Owner
+Renault Duster,2020,433909,153026.0,Petrol,Individual,Automatic,First Owner
+Honda City,2005,63747,162980.0,Diesel,Trustmark Dealer,Automatic,Second Owner
+Toyota Fortuner,2006,218138,175956.0,CNG,Trustmark Dealer,Manual,First Owner
+Ford EcoSport,2013,174838,35148.0,Petrol,Individual,Manual,Second Owner
+Ford Figo,2008,80205,76715.0,Petrol,Trustmark Dealer,Manual,Fourth & Above Owner
+Mahindra Bolero,2019,554849,94526.0,Diesel,Dealer,Manual,Second Owner
+Volkswagen Vento,2020,585770,127479.0,Electric,Trustmark Dealer,Automatic,Second Owner
+Ford EcoSport,2009,69232,11014.0,Petrol,Trustmark Dealer,Manual,Second Owner
+Skoda Octavia,2013,365585,33920.0,petrol,Trustmark Dealer,Automatic,First Owner
+Ford EcoSport,2005,64058,11728.0,Diesel,Dealer,Manual,First Owner
+Tata Harrier,2010,119771,34276.0,Electric,Trustmark Dealer,Manual,Third Owner
+Maruti Baleno,2015,211348,169197.0,Petrol,Individual,Manual,Second Owner
+Tata Nexon,2005,99505,42328.0,petrol,Individual,Manual,First Owner
+Toyota Fortuner,2012,334353,169636.0,diesel,Individual,Manual,First Owner
+Mahindra XUV500,2005,216244,40194.0,Electric,Dealer,Manual,First Owner
+Renault Duster,2020,413377,33298.0,CNG,Trustmark Dealer,Manual,Third Owner
+Tata Tiago,2012,127982,128426.0,CNG,Trustmark Dealer,Manual,Third Owner
+Tata Harrier,2007,50000,132184.0,Petrol,Dealer,Manual,First Owner
+Maruti Baleno,2005,67073,1887.0,Diesel,Dealer,Automatic,Second Owner
+Hyundai Santro,2013,213519,78789.0,Diesel,Individual,Manual,First Owner
+Mahindra Bolero,2019,644651,123332.0,Petrol,Individual,Automatic,First Owner
+Renault Kwid,2019,374392,186917.0,Diesel,Individual,Automatic,First Owner
+Ford EcoSport,2014,180583,127155.0,Diesel,Dealer,Manual,First Owner
+Honda Amaze,2006,67902,89229.0,Diesel,Individual,Manual,Fourth & Above Owner
+Mahindra Bolero,2013,286727,27990.0,Petrol,Trustmark Dealer,Manual,First Owner
+Ford EcoSport,2010,89681,13360.0,Electric,Individual,Manual,Second Owner
+Toyota Fortuner,2016,661524,43137.0,Petrol,Trustmark Dealer,Manual,First Owner
+Ford Endeavour,2015,306204,100575.0,Diesel,Trustmark Dealer,Automatic,First Owner
+Maruti Swift,2017,343160,2920.0,Diesel,Trustmark Dealer,Manual,First Owner
+Volkswagen Polo,2018,395258,110200.0,Petrol,Individual,Manual,First Owner
+Toyota Fortuner,2009,310919,70212.0,Electric,Trustmark Dealer,Manual,First Owner
+Skoda Rapid,2012,289335,76945.0,Petrol,Dealer,Manual,Second Owner
+Ford Endeavour,2019,388845,61128.0,Diesel,Trustmark Dealer,Manual,First Owner
+Ford Endeavour,2020,514043,28586.0,Electric,Individual,Manual,First Owner
+Tata Tiago,2006,121596,175398.0,CNG,Trustmark Dealer,Automatic,First Owner
+Honda Amaze,2010,94858,165530.0,Diesel,Individual,Manual,Second Owner
+Volkswagen Polo,2005,83102,87664.0,CNG,Dealer,Automatic,First Owner
+Ford EcoSport,2017,284638,181903.0,CNG,Individual,Manual,First Owner
+Hyundai Creta,2019,428426,89835.0,Petrol,Dealer,Manual,First Owner
+Tata Nexon,2015,313541,139368.0,Diesel,Trustmark Dealer,Automatic,Second Owner
+Maruti Baleno,2010,76546,,,Dealer,Manual,Third Owner
+Hyundai Verna,2007,95747,13356.0,CNG,Trustmark Dealer,Manual,First Owner
+Skoda Rapid,2013,315173,134663.0,petrol,Dealer,Manual,Second Owner
+Ford EcoSport,2014,248569,24408.0,petrol,Dealer,Manual,First Owner
+Honda Jazz,2010,107941,77240.0,Diesel,Trustmark Dealer,Automatic,First Owner
+Honda Amaze,2013,208203,2700.0,Petrol,Trustmark Dealer,Manual,First Owner
+Tata Nexon,2005,111614,173677.0,Diesel,Dealer,Automatic,Second Owner
+Mahindra Scorpio,2005,67890,42458.0,Petrol,Individual,Manual,First Owner
+Toyota Corolla,2013,384006,70166.0,Petrol,Trustmark Dealer,Manual,First Owner
+Honda Amaze,2019,567203,9328.0,Diesel,Trustmark Dealer,Manual,First Owner
+Skoda Octavia,2019,526165,137690.0,diesel,Individual,Manual,First Owner
+Maruti Baleno,2017,241770,160988.0,Diesel,Dealer,Manual,First Owner
+Skoda Rapid,2011,230336,137198.0,Petrol,Trustmark Dealer,Automatic,Second Owner
+Tata Nexon,2005,127438,124130.0,Petrol,Dealer,Automatic,First Owner
+Skoda Octavia,2020,737756,122948.0,Petrol,Dealer,Manual,Second Owner
+Volkswagen Polo,2016,391437,12676.0,Petrol,Individual,Automatic,First Owner
+Volkswagen Vento,2006,95234,52717.0,Electric,Individual,Manual,First Owner
+Volkswagen Vento,2008,137974,38548.0,CNG,Dealer,Manual,First Owner
+Toyota Innova,2015,471716,154407.0,Petrol,Trustmark Dealer,Manual,Second Owner
+Tata Tiago,2008,89442,131526.0,Diesel,Individual,Manual,Second Owner
+Hyundai i20,2012,233036,148705.0,Diesel,Dealer,Manual,First Owner
+Tata Tiago,2008,97894,101922.0,Petrol,Dealer,Manual,First Owner
+Skoda Rapid,2020,722609,124683.0,diesel,Individual,Manual,Third Owner
+Ford EcoSport,2018,342416,40178.0,Petrol,Dealer,Manual,First Owner
+Renault Duster,2015,194999,175379.0,CNG,Individual,Automatic,Second Owner
+Maruti Baleno,2006,104016,112249.0,Petrol,Trustmark Dealer,Manual,Fourth & Above Owner
+Volkswagen Polo,2007,50000,163781.0,Electric,Dealer,Manual,First Owner
+Ford EcoSport,2018,341428,129585.0,Petrol,Individual,Manual,Second Owner
+Tata Harrier,2010,155884,147971.0,diesel,Dealer,Automatic,First Owner
+Ford Endeavour,2010,148364,109036.0,Petrol,Trustmark Dealer,Automatic,Second Owner
+Volkswagen Vento,2018,455680,79278.0,CNG,Dealer,Manual,Fourth & Above Owner
+Mahindra Scorpio,2006,148039,170509.0,Diesel,Dealer,Automatic,First Owner
+Skoda Rapid,2017,557808,64344.0,Diesel,Dealer,Manual,Fourth & Above Owner
+Ford Endeavour,2010,98703,102154.0,Diesel,Dealer,Manual,First Owner
+Tata Harrier,2020,489322,97393.0,Diesel,Dealer,Manual,First Owner
+Toyota Innova,2017,759660,34340.0,diesel,Individual,Manual,First Owner
+Renault Duster,2018,265878,117026.0,petrol,Trustmark Dealer,Manual,First Owner
+Ford EcoSport,2008,121754,80768.0,CNG,Individual,Manual,First Owner
+Renault Duster,2015,192528,132642.0,Petrol,Dealer,Manual,Second Owner
+Volkswagen Vento,2014,274410,40104.0,Diesel,Trustmark Dealer,Manual,First Owner
+Maruti Swift,2018,360644,75102.0,Petrol,Dealer,Manual,First Owner
+Renault Kwid,2008,111471,137285.0,Electric,Individual,Manual,Third Owner
+Hyundai Santro,2010,160924,15995.0,Diesel,Trustmark Dealer,Manual,First Owner
+Renault Kwid,2018,281027,178295.0,Electric,Trustmark Dealer,Manual,Second Owner
+Renault Kwid,2015,268416,161840.0,Diesel,Trustmark Dealer,Manual,Fourth & Above Owner
+Toyota Innova,2014,391137,188655.0,Diesel,Dealer,Manual,Third Owner
+Tata Nexon,2011,137087,164165.0,petrol,Individual,Manual,First Owner
+Hyundai Creta,2011,158221,33101.0,Petrol,Individual,Manual,Third Owner
+Toyota Fortuner,2009,246621,62799.0,diesel,Trustmark Dealer,Automatic,First Owner
+Renault Duster,2018,322357,190052.0,Petrol,Dealer,Automatic,First Owner
+Mahindra Bolero,2012,232242,128006.0,Petrol,Individual,Manual,First Owner
+Ford EcoSport,2014,183993,121747.0,Diesel,Trustmark Dealer,Manual,First Owner
+Tata Harrier,2019,373273,122015.0,petrol,Dealer,Manual,First Owner
+Mahindra XUV500,2013,336049,88438.0,Diesel,Dealer,Manual,First Owner
+Renault Kwid,2014,199596,66982.0,Petrol,Dealer,Manual,First Owner
+Mahindra Bolero,2016,542129,12151.0,petrol,Individual,Automatic,First Owner
+Renault Duster,2017,249228,145972.0,Electric,Trustmark Dealer,Manual,First Owner
+Skoda Octavia,2019,758433,110388.0,Diesel,Dealer,Automatic,Second Owner
+Ford EcoSport,2007,60801,9597.0,Petrol,Individual,Manual,Second Owner
+Mahindra Bolero,2012,315241,87402.0,petrol,Trustmark Dealer,Automatic,Third Owner
+Ford EcoSport,2008,65895,178747.0,Diesel,Individual,Manual,First Owner
+Mahindra XUV500,2017,467501,1336.0,CNG,Dealer,Automatic,First Owner
+Maruti Alto,2014,201929,78485.0,Petrol,Trustmark Dealer,Automatic,Second Owner
+Skoda Rapid,2015,249315,150180.0,Diesel,Dealer,Manual,First Owner
+Maruti Baleno,2011,103647,165957.0,Electric,Individual,Manual,First Owner
+Ford EcoSport,2009,152118,73307.0,Petrol,Trustmark Dealer,Manual,Second Owner
+Ford Endeavour,2020,461940,35485.0,Petrol,Dealer,Manual,Fourth & Above Owner
+Honda Jazz,2006,50000,20692.0,Petrol,Dealer,Manual,First Owner
+Maruti Dzire,2012,158884,114502.0,Petrol,Trustmark Dealer,Manual,Second Owner
+Skoda Rapid,2009,261808,177469.0,Diesel,Individual,Automatic,First Owner
+Honda Jazz,2015,278511,92198.0,Petrol,Individual,Manual,First Owner
+Tata Harrier,2005,50000,77918.0,Diesel,Individual,Manual,First Owner
+Maruti Dzire,2008,93710,36944.0,Electric,Dealer,Manual,First Owner
+Honda Amaze,2016,341592,5992.0,Petrol,Trustmark Dealer,Manual,First Owner
+Renault Kwid,2020,438832,62576.0,Diesel,Trustmark Dealer,Manual,First Owner
+Hyundai Santro,2006,126292,41197.0,Diesel,Trustmark Dealer,Automatic,Third Owner
+Mahindra Bolero,2007,139928,11207.0,Diesel,Dealer,Manual,First Owner
+Ford Figo,2008,114263,95704.0,Diesel,Individual,Automatic,Third Owner
+Volkswagen Polo,2009,144930,28532.0,CNG,Dealer,Manual,Third Owner
+Renault Kwid,2014,199596,66982.0,Petrol,Dealer,Manual,First Owner
+Ford EcoSport,2008,65895,178747.0,Diesel,Individual,Manual,First Owner
+Ford Figo,2016,266547,187470.0,Diesel,Individual,Manual,Fourth & Above Owner
+Maruti Swift,2016,275712,110616.0,Diesel,Trustmark Dealer,Manual,First Owner
+Hyundai Verna,2019,479896,109821.0,Diesel,Dealer,Automatic,First Owner
+Toyota Corolla,2015,410576,125040.0,Petrol,Trustmark Dealer,Automatic,First Owner
